@@ -1,70 +1,44 @@
-# ERROR-X-ARIYAN
-[![MasterHead](https://i.postimg.cc/5ybZx1kr/Screenshot-20230802-091547-Kiwi-Browser.jpg)](https://SAJUx.in)
+[![facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/ariyan.saju.39)
+
+[![facebook_page](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/ariyan.saju.39)
+
+ 
+
+ [![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/DH-Alamin)
+
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+DH+ALAMIN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+DH+ALAMIN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+
+![P4RVEJ](https://avatars.githubusercontent.com/u/107547154?v=4)
 
 
+![P4RVEJ](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
 
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17178
-Fork on GitHub
-4912
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-<h1 align="center">IM SAJU.X</h1>
-<h3 align="center">KIDS PYTHON PROGRAMER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajux&label=Profile%20views&color=0e75b6&style=flat" alt="sajux" /> </p>
+- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+ 
+ ​<h3><b><i>Visitors :</i></b></h3> 
+  
+ ​<br> 
+  
+  
+ ​![​Visitor Count​](https://profile-counter.glitch.me/ARIYAN-SAJU/count.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajux" alt="sajux" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/××××××" target="blank"><img src="https://img.shields.io/twitter/follow/××××××?logo=twitter&style=for-the-badge" alt="××××××" /></a> </p>
-
-- 🔭 I’m currently working on [META](https//www.facebook.com)
-
-- 👯 I’m looking to collaborate on **pritnt('hello world')**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SAJUx](https://github.com/SAJUx)
-
-- 📫 How to reach me **ariyansaju605@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/××××××" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="××××××" height="30" width="40" /></a>
-<a href="https://fb.com/ariyan saju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariyan saju" height="30" width="40" /></a>
-<a href="https://instagram.com/aryansaju_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryansaju_05" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajux&show_icons=true&locale=en&layout=compact" alt="sajux" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajux&show_icons=true&locale=en" alt="sajux" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajux&" alt="sajux" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-GitHub Profile github profile markdown generator logo
-README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+###​ ​⚙️ ​&nbsp;​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
+  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)​&nbsp;
+![​JavaScript​](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)​&nbsp; 
+![​React​](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)​&nbsp; 
+![​Node.js​](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)​&nbsp; 
+![​Bootstrap​](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\ 
+![​HTML​](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)​&nbsp;  
+![​CSS​](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)​&nbsp; 
+![​Git​](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)​&nbsp; 
+![​GitHub​](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)​&nbsp; 
+![​Markdown​](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
+![​Visual Studio Code​](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)​&nbsp; 
+![​Illustrator​](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)​&nbsp;
